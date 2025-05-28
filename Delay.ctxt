@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Delay
+comment0.text=\r\n\ Delay\ without\ pausing\ the\ whole\ game\r\n
+comment1.params=frames
+comment1.target=boolean\ delay(int)
+numComments=2

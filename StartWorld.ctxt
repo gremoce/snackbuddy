@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=StartWorld
+comment0.text=\r\n\ Welcome\ to\ SnackBuddy\!\r\n\ \r\n\ Help\ Buddy\ reach\ the\ door\ to\ his\ snacks\!\!\r\n\ \r\n\ INSTRUCTIONS\r\n\ 1.\ Use\ arrow\ keys\ to\ control\ Buddy\ -\ left,\ right,\ up\ (jump)\r\n\ 2.\ Collect\ coins\r\n\ 3.\ Finish\ the\ level\ within\ 20\ seconds\ and\ collect\ all\ coins\ for\ perfect\ score\ (100)\r\n\ \r\n\ CREDITS\r\n\ Creator\:\ Grace\ Tao\r\n\ ICS3U\ Final\ Project\ (Jan\ 2025)\r\n\ \r\n\ Music\:\ "SnackBuddy\!"\ by\ Grace\ Tao\ (created\ using\ MuseScore)\r\n\ Sprite\ pack\:\ Pixel\ Platformer\ by\ Kenney\r\n\ Sound\ effects\:\ Mixkit\r\n\ \r\n\ BUGS\:\r\n\ When\ game\ is\ resetted,\ there\ is\ an\ error\ where\ the\ sound\ starts\ glitching,\ \r\n\ and\ gives\ an\ error\ message.\r\n
+comment1.params=
+comment1.target=StartWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ started()
+comment4.params=
+comment4.target=void\ stopped()
+comment5.params=
+comment5.target=void\ playMusic()
+comment6.params=
+comment6.target=void\ stopMusic()
+comment7.params=
+comment7.target=void\ animate()
+numComments=8
